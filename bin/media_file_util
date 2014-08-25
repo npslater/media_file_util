@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'media_file_util'
+
+MediaFileUtil::CLI.start(ARGV)
